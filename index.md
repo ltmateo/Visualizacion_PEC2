@@ -6,9 +6,6 @@ title: "Visualizaciones de la PEC2 de la asignatura Visualización de Datos"
 Para esta visualización se obtuvieron datos sobre hábitos saludables del NHS (National Health Service) de Reino Unido.
 ![infographic](infographic.jpg) 
 
-Esta visualización busca mostrar
-
-Comentario breve sobre cada visualización: qué se representa, qué aspectos específicos resalta o demuestra, así como el objetivo concreto de comunicación o descubrimiento buscado. Explicad claramente cómo la técnica y los datos elegidos permiten alcanzar dicho objetivo.
 
 Esta infografía representa los principales hábitos para mantener un estilo de vida saludable según el NHS. Se resaltan cinco áreas clave: alimentación equilibrada, actividad física, bienestar mental, revisiones médicas y descanso.
 El objetivo es comunicar de forma clara y accesible pautas de salud preventiva, utilizando una estructura visual que facilita la comprensión inmediata.

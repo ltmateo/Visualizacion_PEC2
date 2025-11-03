@@ -31,7 +31,7 @@ https://www.kaggle.com/datasets/imtkaggleteam/mental-health
 
 ---
 
-# Hexagonal binning
+# Hexagon binning
 Para esta visualización se usó el mismo dataset que en el apartado anterior. En este caso, se filtró por año para seleccionar solo datos pertenecientes a 2019, y se representaron datos sobre las tasas de ansiedad y depresión.
 ![hex_binning](hex_binning.jpg)
 

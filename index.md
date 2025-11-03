@@ -9,7 +9,6 @@ Para esta visualización se obtuvieron datos sobre hábitos saludables del NHS (
 
 Esta infografía representa los principales hábitos para mantener un estilo de vida saludable según el NHS. Se resaltan cinco áreas clave: alimentación equilibrada, actividad física, bienestar mental, revisiones médicas y descanso.
 El objetivo es comunicar de forma clara y accesible pautas de salud preventiva, utilizando una estructura visual que facilita la comprensión inmediata.
-La elección del formato infográfico y los datos del NHS permiten sintetizar información fiable y promover conductas saludables.
 
 ## Fuentes
 - https://www.nhs.uk/live-well/
@@ -20,7 +19,7 @@ La elección del formato infográfico y los datos del NHS permiten sintetizar in
 ---
 
 # Small multiple
-Para esta visualización se obtuvieron datos sobre la prevalencia de ciertos trastornos mentales desde 1990 hasta 2019 de kaggle. Se filtró el dataset para Europa, y se dividieron los gráficos por ciudades.
+Para esta visualización se obtuvieron datos sobre la prevalencia de ciertos trastornos mentales desde 1990 hasta 2019 de kaggle. Se filtró el dataset para Europa, y se dividieron los gráficos por países.
 ![small_multiples](small_multiples.jpg)
 
 Esta visualización muestra la evolución temporal de distintos trastornos mentales (ansiedad, depresión, bipolaridad, trastornos alimentarios y esquizofrenia) en países europeos entre 1990 y 2019.
